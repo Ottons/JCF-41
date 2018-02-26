@@ -1,14 +1,12 @@
 package performanceTest;
 
-import org.junit.Before;
+
 import org.junit.BeforeClass;
 import org.junit.Test;
 import woordenapplicatie.StringUtil;
-
-import java.util.Queue;
 import java.util.Random;
 
-import static org.junit.Assert.*;
+
 
 
 public class StringUtilPerformanceTest {

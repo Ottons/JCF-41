@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/JCF-41.iml" filepath="$PROJECT_DIR$/.idea/JCF-41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JCF-WoordenApplicatie/JCF-WoordenApplicatie.iml" filepath="$PROJECT_DIR$/JCF-WoordenApplicatie/JCF-WoordenApplicatie.iml" />
     </modules>
   </component>
 </project>
